@@ -1,7 +1,38 @@
-*{
+/* Basic CSS Reset */
+* {
   padding: 0;
   margin: 0;
 }
-body{
-  background-color: #747474;
+
+/* General Layout */
+a {
+  text-decoration: none;
+}
+
+/* Container Layout */
+.container {
+  width: 1270px;
+  margin: 0 auto;
+  position: relative;
+}
+
+/* Header Layout */
+.header {
+  background: url("../img/header/logo.png") no-repeat;
+  background-position: bottom center;
+}
+
+.logo {
+  color: #43a9ff;
+  font-size: 32px;
+  letter-spacing: 1px;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  top: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.search {
+  float: right;
 }
