@@ -18,7 +18,7 @@ a {
 
 /* Header Layout */
 .header {
-  background: url("../img/logo.png") no-repeat;
+  background: url("../img/header/logo.png") no-repeat;
   background-position: bottom center;
 }
 
