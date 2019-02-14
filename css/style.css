@@ -36,3 +36,34 @@ a {
 .search {
   float: right;
 }
+
+/* Main Page */
+#mainpage {
+  position: relative;
+  background: url(../img/horse.png) no-repeat;
+  height: 100vh;
+  background-size: 100%;
+}
+
+h2{
+  font-family: 'Montserrat';
+  font-weight: normal;
+  font-size: 48px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+.p1 {
+  color: #4b5863;
+  text-align: center;
+  font-family: 'Montserrat';
+  font-weight: normal;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+.button {
+  position: absolute;
+  left: 38%;
+  margin-top: -3%;
+  transform: translateY(40%);
+}
