@@ -39,31 +39,28 @@ a {
 
 /* Main Page */
 #mainpage {
-  position: relative;
   background: url(../img/horse.png) no-repeat;
-  height: 100vh;
+  height: 768px;
   background-size: 100%;
+  text-align: center;
+  z-index: 1;
 }
 
-h2{
-  font-family: 'Montserrat';
-  font-weight: normal;
-  font-size: 48px;
+.h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
   letter-spacing: 1px;
-  text-align: center;
+  margin-top: 60px;
+  z-index: 2;
 }
 .p1 {
   color: #4b5863;
-  text-align: center;
-  font-family: 'Montserrat';
-  font-weight: normal;
-  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12px;
   letter-spacing: 1px;
 }
 
+/* Button Image */
 .button {
-  position: absolute;
-  left: 38%;
-  margin-top: -3%;
-  transform: translateY(40%);
+  margin-top: 60%;
 }
