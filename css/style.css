@@ -64,3 +64,49 @@ a {
 .button {
   margin-top: 60%;
 }
+
+/* Offer Page */
+#offerpage{
+  text-align: center;
+}
+
+.p2{
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #4b5863;
+}
+
+.lorem{
+  margin-top: 1%;
+  font-size: 30px;
+  letter-spacing: 1px;
+  font-family: 'Raleway', sans-serif;
+}
+
+#block{
+  margin-top: 5%;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+#block h3{
+  margin-top: 35px;
+  letter-spacing: 1px;
+  font-size: 18px;
+  font-family: 'Arial', sans-serif;
+}
+
+#block p{
+  color: #4b5863;
+  margin-top: 30px;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+h3{
+  font-weight: lighter;
+}
+
+/* Button Image */
+.offer{
+  margin-bottom: 10px;
+}
