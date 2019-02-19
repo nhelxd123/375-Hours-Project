@@ -9,6 +9,10 @@ a {
   text-decoration: none;
 }
 
+h3 {
+  font-weight: normal;
+}
+
 /* Container Layout */
 .container {
   width: 1270px;
@@ -33,11 +37,12 @@ a {
   transform: translateX(-50%);
 }
 
+/* Search Icon */
 .search {
   float: right;
 }
 
-/* Main Page */
+/* Main Page Layout */
 #mainpage {
   background: url(../img/horse.png) no-repeat;
   height: 768px;
@@ -46,6 +51,7 @@ a {
   z-index: 1;
 }
 
+/* Main Page Text */
 .h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
@@ -53,6 +59,8 @@ a {
   margin-top: 60px;
   z-index: 2;
 }
+
+/* Main Page Paragraph */
 .p1 {
   color: #4b5863;
   font-family: 'Montserrat', sans-serif;
@@ -63,4 +71,57 @@ a {
 /* Button Image */
 .button {
   margin-top: 60%;
+}
+
+/* Offer Page */
+#offerpage {
+  text-align: center;
+  z-index: 1;
+}
+
+/* Paragraph 2 */
+.p2 {
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: #4b5863;
+  font-family: 'Raleway', sans-serif;
+}
+/* h2 */
+.txt2 {
+  margin-top: 10px;
+  font-size: 30px;
+  letter-spacing: 3px;
+  font-family: 'Raleway', sans-serif;
+}
+
+/* Div Class */
+#block {
+  margin-top: 80px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  z-index: 2;
+}
+
+/* h3 */
+#block h3 {
+  margin-top: 30px;
+  font-size: 18px;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Paragraph */
+#block p {
+  color: #4b5863;
+  margin-top: 35px;
+  letter-spacing: 1px;
+  line-height: 2;
+  font-size: 12px;
+  font-family: 'Raleway', sans-serif;
+}
+
+/* Button Image */
+.offer {
+  margin-top: 80px;
+  margin-left: 10px;
+  display: block;
 }
