@@ -9,6 +9,10 @@ a {
   text-decoration: none;
 }
 
+h3 {
+  font-weight: normal;
+}
+
 /* Container Layout */
 .container {
   width: 1270px;
@@ -113,10 +117,6 @@ a {
   line-height: 2;
   font-size: 12px;
   font-family: 'Raleway', sans-serif;
-}
-
-h3 {
-  font-weight: lighter;
 }
 
 /* Button Image */
