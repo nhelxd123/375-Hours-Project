@@ -136,12 +136,12 @@ h3 {
 .blockblock {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  height: 100vh;
+  height: 500px;
 }
 
 /* Div Class */
 .blockone {
-  background: url('/img/bgsnow.jpg');
+  background: url('../img/bgsnow.jpg');
   background-size: cover;
   height: 360px;
 }
@@ -157,14 +157,14 @@ h3 {
 /* Div Class */
 .blockthree {
   text-align: left;
-  margin-top: 150px;
   font-style: justify;
+  margin-top: 150px;
   margin-left: 105px;
 }
 
 /* Div Class */
 .blockfour {
-  background: url('/img/bglog.jpg');
+  background: url('../img/bglog.jpg');
   background-size: cover;
   height: 360px;
 }
