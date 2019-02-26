@@ -125,3 +125,73 @@ h3 {
   margin-left: 10px;
   display: block;
 }
+
+/* Services Page */
+#servicespage {
+  background-color: #f7f8fb;
+  width: 100%;
+}
+
+/* Div Class */
+.blockblock {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  height: 100vh;
+}
+
+/* Div Class */
+.blockone {
+  background: url('/img/bgsnow.jpg');
+  background-size: cover;
+  height: 360px;
+}
+
+/* Div Class */
+.blocktwo {
+  text-align: left;
+  font-style: justify;
+  margin-top: 120px;
+  margin-left: 100px;
+}
+
+/* Div Class */
+.blockthree {
+  text-align: left;
+  margin-top: 150px;
+  font-style: justify;
+  margin-left: 105px;
+}
+
+/* Div Class */
+.blockfour {
+  background: url('/img/bglog.jpg');
+  background-size: cover;
+  height: 360px;
+}
+
+/* h3 */
+#servicespage h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  font-size: 30px;
+  letter-spacing: 1px;
+}
+
+/* Paragraph */
+#servicespage p {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: regular;
+  font-size: 16px;
+  color: #4b5863;
+  line-height: 1.5;
+}
+
+/* Paragraph Class */
+.pone {
+  margin-top: 25px;
+}
+
+/* Paragraph Class */
+.ptwo {
+  margin-top: 25px;
+}
