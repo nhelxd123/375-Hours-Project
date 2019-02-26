@@ -204,14 +204,14 @@ h3 {
   grid-template-columns: 1fr 1fr;
 }
 
-#mobilepage p {
+#mobilepage h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   letter-spacing: 1px;
   color: #43a9ff;
 }
 
-#mobilepage h3{
+#mobilepage p {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
   letter-spacing: 1px;
@@ -220,7 +220,7 @@ h3 {
 }
 
 .blockapp {
-  margin-left: 110px;
+  margin-left: 190px;
   margin-top: 30px;
 }
 
@@ -230,5 +230,13 @@ h3 {
 
 .blocktxt2 {
   margin-top: 245px;
-  margin-left: 150px;
+  margin-left: 190px;
+}
+
+.lor {
+  margin-top: 20px;
+}
+
+.lore {
+  margin-top: 20px;
 }
