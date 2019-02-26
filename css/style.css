@@ -148,17 +148,17 @@ h3 {
 /* Div Class */
 .blocktwo {
   text-align: left;
-  font-style: justify;
+  text-align: justify;
   margin-top: 120px;
-  margin-left: 100px;
+  margin-left: 85px;
 }
 
 /* Div Class */
 .blockthree {
   text-align: left;
-  font-style: justify;
-  margin-top: 150px;
-  margin-left: 105px;
+  text-align: justify;
+  margin-top: 130px;
+  margin-left: 125px;
 }
 
 /* Div Class */
@@ -179,17 +179,17 @@ h3 {
 /* Paragraph */
 #servicespage p {
   font-family: 'Montserrat', sans-serif;
-  font-size: 16px;
+  font-size: 12px;
   color: #4b5863;
   line-height: 2;
 }
 
 /* Paragraph Class */
 .pone {
-  margin-top: 25px;
+  margin-top: 20px;
 }
 
 /* Paragraph Class */
 .ptwo {
-  margin-top: 25px;
+  margin-top: 20px;
 }
