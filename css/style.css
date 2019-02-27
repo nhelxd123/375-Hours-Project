@@ -330,7 +330,6 @@ h3 {
   height: 1000px;
   text-align: center;
   margin-top: 80px;
-  position: relative;
 }
 
 #footerpage a {
@@ -355,7 +354,8 @@ h3 {
   letter-spacing: 1px;
 }
 
-.button {
+/* Button Image */
+.footerbtn {
   margin-top: 70px;
   margin-left: 475px;
   position: absolute;
