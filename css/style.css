@@ -283,7 +283,7 @@ h3 {
 /* h3 */
 .fbh3 {
   font-family: 'Montserrat', sans-serif;
-  font-weight: regular;
+  font-weight: 300;
   font-size: 35px;
   letter-spacing: 1px;
   color: #fe3254;
@@ -292,7 +292,7 @@ h3 {
 /* Paragraph */
 .fbtxt {
   font-family: 'Montserrat', sans-serif;
-  font-weight: regular;
+  font-weight: 300;
   font-size: 16px;
   letter-spacing: 1px;
   color: #4b5863;
@@ -308,7 +308,7 @@ h3 {
 /* Paragraph */
 .john {
   font-family: 'Montserrat', sans-serif;
-  font-weight: regular;
+  font-weight: 300;
   font-size: 16px;
   color: #000000;
   letter-spacing: 1px;
@@ -317,7 +317,7 @@ h3 {
 /* Paragraph */
 .ceo {
   font-family: 'Montserrat', sans-serif;
-  font-weight: regular;
+  font-weight: 300;
   font-size: 16px;
   color: #4b5863;
   letter-spacing: 1px;
