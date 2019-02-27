@@ -333,6 +333,9 @@ h3 {
   position: relative;
 }
 
+#footerpage a {
+  display: block;
+}
 /* Paragraph */
 .toptext {
   font-family: 'Montserrat', sans-serif;
@@ -354,6 +357,6 @@ h3 {
 
 .button {
   margin-top: 70px;
-  margin-left: -160px;
+  margin-left: 475px;
   position: absolute;
 }
