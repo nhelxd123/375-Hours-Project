@@ -198,37 +198,67 @@ h3 {
   background: url('../img/bgmobile.jpg');
   background-size: 100%;
 }
-
+/* Div Class */
 .blockmobile {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
 
-#mobilepage p {
+/* h3 */
+#mobilepage h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
   letter-spacing: 1px;
   color: #43a9ff;
 }
 
-#mobilepage h3{
+/* Paragraph */
+#mobilepage p {
   font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
+  font-size: 10px;
   letter-spacing: 1px;
   color: #4b5863;
-  line-height: 2;
+  line-height: 2.5;
 }
 
+/* Div Class */
 .blockapp {
-  margin-left: 110px;
+  margin-left: 190px;
   margin-top: 30px;
 }
 
-.blocktxt1 {
-  margin-top: 255px;
+/* Image */
+.blockapp img{
+  width: 350px;
 }
 
+/* Text */
+.blocktxt1 {
+  margin-top: 200px;
+}
+
+/* Text */
 .blocktxt2 {
-  margin-top: 245px;
-  margin-left: 150px;
+  margin-top: 210px;
+  margin-left: 230px;
+}
+
+/* Div Class */
+.blockdoe {
+  margin-left: 80px;
+}
+
+/* Image */
+.blockdoe img{
+  width: 350px;
+}
+
+/* Paragraph */
+.lor {
+  margin-top: 20px;
+}
+
+/* Paragraph */
+.lore {
+  margin-top: 20px;
 }
