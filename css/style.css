@@ -215,10 +215,10 @@ h3 {
 /* Paragraph */
 #mobilepage p {
   font-family: 'Montserrat', sans-serif;
-  font-size: 12px;
+  font-size: 10px;
   letter-spacing: 1px;
   color: #4b5863;
-  line-height: 2;
+  line-height: 2.5;
 }
 
 /* Div Class */
