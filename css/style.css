@@ -198,12 +198,13 @@ h3 {
   background: url('../img/bgmobile.jpg');
   background-size: 100%;
 }
-
+/* Div Class */
 .blockmobile {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
 
+/* h3 */
 #mobilepage h3 {
   font-family: 'Montserrat', sans-serif;
   font-size: 30px;
@@ -211,6 +212,7 @@ h3 {
   color: #43a9ff;
 }
 
+/* Paragraph */
 #mobilepage p {
   font-family: 'Montserrat', sans-serif;
   font-size: 12px;
@@ -219,24 +221,44 @@ h3 {
   line-height: 2;
 }
 
+/* Div Class */
 .blockapp {
   margin-left: 190px;
   margin-top: 30px;
 }
 
+/* Image */
+.blockapp img{
+  width: 350px;
+}
+
+/* Text */
 .blocktxt1 {
-  margin-top: 255px;
+  margin-top: 200px;
 }
 
+/* Text */
 .blocktxt2 {
-  margin-top: 245px;
-  margin-left: 190px;
+  margin-top: 210px;
+  margin-left: 230px;
 }
 
+/* Div Class */
+.blockdoe {
+  margin-left: 80px;
+}
+
+/* Image */
+.blockdoe img{
+  width: 350px;
+}
+
+/* Paragraph */
 .lor {
   margin-top: 20px;
 }
 
+/* Paragraph */
 .lore {
   margin-top: 20px;
 }
