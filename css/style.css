@@ -330,6 +330,7 @@ h3 {
   height: 1000px;
   text-align: center;
   margin-top: 80px;
+  position: relative;
 }
 
 /* Paragraph */
@@ -339,6 +340,7 @@ h3 {
   font-size: 14px;
   letter-spacing: 1px;
   color: #4b5863;
+  margin-top: 110px;
 }
 
 /* Paragraph */
@@ -348,4 +350,10 @@ h3 {
   font-size: 30px;
   color: #000000;
   letter-spacing: 1px;
+}
+
+.button {
+  margin-top: 70px;
+  margin-left: -160px;
+  position: absolute;
 }
