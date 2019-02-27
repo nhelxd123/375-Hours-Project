@@ -322,3 +322,27 @@ h3 {
   color: #4b5863;
   letter-spacing: 1px;
 }
+
+#footerpage {
+  background: url('../img/bgfooter.jpg') center;
+  background-size: cover;
+  height: 700px;
+  text-align: center;
+  margin-top: 40px;
+}
+
+.toptext {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: #4b5863;
+}
+
+.maintext {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 300;
+  font-size: 30px;
+  color: #000000;
+  letter-spacing: 1px;
+}
